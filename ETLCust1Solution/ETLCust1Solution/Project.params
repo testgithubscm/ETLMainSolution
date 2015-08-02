@@ -47,6 +47,10 @@
     <SSIS:Properties>
       <SSIS:Property
         SSIS:Name="ID">{d76c80ce-fc75-4957-9653-a0ca439e7cae}</SSIS:Property>
+    SSIS:Name="user1param">
+    <SSIS:Properties>
+      <SSIS:Property
+        SSIS:Name="ID">{beb03fde-af09-43d1-8e76-77a70a807175}</SSIS:Property>
       <SSIS:Property
         SSIS:Name="CreationName"></SSIS:Property>
       <SSIS:Property
